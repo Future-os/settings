@@ -41,8 +41,12 @@ public class BatteryPercentagePreferenceController extends AbstractPreferenceCon
 
     @Override
     public boolean isAvailable() {
+<<<<<<< HEAD
         return mContext.getResources()
                 .getBoolean(R.bool.config_battery_percentage_setting_available);
+=======
+        return false;
+>>>>>>> d850b4e... Remove AOSP battery percentage
     }
 
     @Override
