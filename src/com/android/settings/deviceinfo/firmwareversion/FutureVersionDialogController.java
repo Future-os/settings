@@ -35,7 +35,7 @@ public class FutureVersionDialogController {
     private static final String TAG = "futureDialogCtrl";
     private static final int DELAY_TIMER_MILLIS = 500;
     private static final int ACTIVITY_TRIGGER_COUNT = 3;
-    private static final String FUTURE_PROPERTY = "ro.future.version";
+    private static final String FUTURE_PROPERTY = "ro.future.build.version";
     private static final int FUTURE_VERSION_VALUE_ID = R.id.future_version_value;
     private static final int FUTURE_VERSION_LABEL_ID = R.id.future_version_label;
 
