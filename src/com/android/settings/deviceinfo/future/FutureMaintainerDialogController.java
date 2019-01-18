@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.deviceinfo.havoc;
+package com.android.settings.deviceinfo.future;
 
 import android.content.Context;
 import android.os.SystemProperties;
@@ -24,7 +24,7 @@ import com.android.settings.R;
 
 public class FutureMaintainerDialogController {
 
-    private static final String FUTURE_PROPERTY = "ro.havoc.maintainer";
+    private static final String FUTURE_PROPERTY = "ro.future.maintainer";
     private static final int FUTURE_MAINTAINER_VALUE_ID = R.id.havoc_maintainer_value;
     private static final int FUTURE_MAINTAINER_LABEL_ID = R.id.havoc_maintainer_label;
 
