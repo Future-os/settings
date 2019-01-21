@@ -1,0 +1,8 @@
+    <!-- Future-OS info -->
+    <string name="future_title">Future</string>
+    <string name="future_info">Future version</string>
+    <string name="future_maintainer">Maintainer</string>
+    <string name="future_date">Build date</string>
+    <string name="future_type">Build type</string>
+    <string name="future_device">Device</string>
+    <string name="future_version">Version</string>
