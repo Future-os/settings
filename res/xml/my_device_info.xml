@@ -71,13 +71,6 @@
         <intent android:action="android.settings.SHOW_REGULATORY_INFO"/>
     </Preference>
 
-    <!-- Havoc info -->
-    <Preference
-        android:key="future_info"
-        android:order="33"
-        android:title="@string/future_info"
-        android:summary="@string/summary_placeholder"/>
-
     <!-- Safety & regulatory manual -->
     <Preference
         android:key="safety_info"
